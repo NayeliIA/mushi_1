@@ -1,0 +1,18 @@
+#harman{
+    position: absolute;
+    width: calc(11%);    
+    top: calc(10%);
+    left: calc(43%);
+}
+#ialab{
+    position: absolute;
+    width: calc(10%);
+    bottom: calc(15%);    
+    left: calc(8%); 
+}
+#sanmina{
+    position: absolute;
+    width: calc(7%);
+    bottom: calc(15%);    
+    right: calc(15%);
+}
