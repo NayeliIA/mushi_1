@@ -90,7 +90,7 @@ function captureimage2() {
         
         capturedCanvas2ctx.drawImage(fullimage,0,0,capturedCanvas2.width,capturedCanvas2.height)
         console.log("estoy en el canvas2")
-        setTimeout(function fire() { resolve('resolved'); }, 5000);//Temporal para programacion de secuencia
+        setTimeout(function fire() { resolve('resolved'); }, 4000);//Temporal para programacion de secuencia
         console.log("FHD Image captured")
         resolve('resolved')
     })
